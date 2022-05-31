@@ -49,7 +49,7 @@
 .todo__tasks-list,
 .completed__tasks-list {
   margin: 0;
-  padding: 0px;
+  padding: 0;
 }
 
 .tasks-list__item,
@@ -66,7 +66,7 @@ button {
 .tasks-list__btn-delete,
 .tasks-list__btn-edit {
   background: none;
-  border: 0px;
+  border: 0;
   color: #888;
   font-size: 15px;
   width: 60px;
